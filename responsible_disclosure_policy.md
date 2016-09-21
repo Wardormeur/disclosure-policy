@@ -23,7 +23,7 @@ If you follow these guidelines when reporting an issue to us, we commit to:
 * \*.coderdojo.com
 
 **Out of scope**  
-Any services hosted by 3rd party providers and services are excluded from scope. These services include:
+Any services hosted by 3rd party providers and services are excluded from scope. These services include but are not limited to:
 * Sendgrid
 * LearnUpon
 * Twilio
@@ -32,7 +32,6 @@ Any services hosted by 3rd party providers and services are excluded from scope.
 
 In the interest of the safety of our users, staff, the Internet at large and you as a security researcher, the following test types are excluded from scope:
 * Findings from physical testing such as office access (e.g. open doors, tailgating)
-* Findings derived primarily from social engineering (e.g. phishing, vishing)
 * Findings from applications or systems not listed in the ‘Scope’ section
 * UI and UX bugs and spelling mistakes
 * Network level Denial of Service (DoS/DDoS) vulnerabilities
