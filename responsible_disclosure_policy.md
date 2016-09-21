@@ -15,7 +15,7 @@ We require that all researchers:
 
 If you follow these guidelines when reporting an issue to us, we commit to:
 * Not pursue or support any legal action related to your research;
-* Work with you to understand and resolve the issue quickly (including an initial confirmation of your report within 72 hours of submission);
+* Work with you to understand and resolve the issue quickly (including an initial confirmation of your report within 3 working days);
 * Recognize your contribution on our Security Researcher Hall of Fame, if you are the first to report the issue and we make a code or configuration change based on the issue.
 
 
@@ -48,7 +48,7 @@ If you believe you’ve found a security vulnerability in one of our products or
 * Your name/handle and a link for recognition in our Hall of Fame.
 
 If you’d like to encrypt the information, please use our GPG Key.
-
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: GnuPG v2
 
@@ -101,3 +101,4 @@ i+bkd4arMHKFmaIMSOEyxKXC4W4Oq1ma8yX5/r33MjYmNxtK3FnKRzKCPQBaln9e
 0NFwkKNjtDJogMUhgO0=
 =WKyF
 -----END PGP PUBLIC KEY BLOCK-----
+```
